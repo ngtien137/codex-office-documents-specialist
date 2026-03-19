@@ -217,3 +217,7 @@ Use this skill when you need:
 ## Privacy Note
 
 This repository is prepared to avoid publishing local absolute paths in the skill docs. Before pushing, still verify that transient local artifacts such as `__pycache__/` and `.pyc` files are not committed.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
