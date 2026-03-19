@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Office Documents Specialist"
+  short_description: "Create, inspect, edit, and polish Office documents"
+  default_prompt: "Use $codex-office-documents-specialist to inspect, generate, edit, or polish Word, Excel, PowerPoint, or Office-style document workflows while preserving the right level of fidelity."
